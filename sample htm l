@@ -1,4 +1,4 @@
-<!Docktype HTML>
+<!DOCTYPE HTML>
 <HTML>
 <Head>
 <Title>First Page </Title>
@@ -6,5 +6,7 @@
 <Body>
 <p>First Application</p>
 <p>Welcome everyone</p>
+	<p>Bengaluru</p>
+	<p>India</p>
 </Body>
 </HTML>
